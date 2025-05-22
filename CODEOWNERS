@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @zmef
+/src/backend/database.py      @zmef
+/src/backend/routers/auth.py  @zmef
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @zmef
